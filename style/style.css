@@ -1,0 +1,221 @@
+@font-face {
+	font-family: 'discord-font', sans-serif;
+	src: url("../fonts/Discord.ttf");
+}
+.container {
+	margin: 0 auto;
+}
+.header {
+	background-color: #1e1f22;
+	width: 1340px;
+}
+#discord {
+	color: #949ba4;
+	font-weight: 900;
+	padding: 0px 8px;
+	font-family: 'discord-font', sans-serif;
+	font-size: 13px;
+}
+.servers {
+	width: 70px;
+	height: 900px;
+	background-color: #1e1f22;
+}
+.img {
+	margin: 0 auto;
+	width: 55px;
+	
+}
+.palka {
+	height: 2px;
+	width: 32px;
+	background-color: #323338;
+	border-radius: 2px;
+	margin: 0 auto;	
+}
+.margin-bottom {
+	margin-bottom: 10px;	
+}
+.server-icon {
+	border-radius: 100px;
+	width: 51px;
+	margin: 0 auto;
+	margin-bottom: 15px;
+}
+.ffe {
+	font-family: 'discord-font', sans-serif;
+	width: 240px;
+	height: 50px;
+	background-color: #2b2d31;
+	color: #bcbdc0;
+	display: flex;
+	justify-content: space-around;
+	padding: 10px 0px;
+	box-sizing: border-box;
+	box-shadow: 0px 2px #1f2124;
+	margin: 0px 0px 2px 0px;
+}
+#s1 {
+	width: 9px;
+	height: 9px;
+	color: white;	
+}
+.medium-cont {
+	display: flex;
+	width: 1340px;
+}
+.weight-text {
+	font-weight: 900;
+}
+.domashku {
+	display: flex;
+	width: 1030px;
+	height: 50px;
+	background-color: #313338;
+	box-shadow: 0px 2px #1f2124;
+}
+#white {
+	color: #7f838d;
+	font-size: 30px;
+	font-weight: 600;
+	padding: 0px 10px;
+	height: 30px;
+}
+.domashku-smaller {
+	display: flex;
+	width: 610px;
+	height: 24px;
+	margin: 7px;
+}
+#weight {
+	font-family: 'discord-font', sans-serif;
+	color: white;
+	font-size: 18px;
+	margin: 5px;
+}
+.toolbar {
+	margin: 7px;
+	width: 400px;
+	height: 30px;
+	display: flex;
+}
+.img-margin {
+	width: 30px;
+	height: 30px;
+	margin: 0px 7px;
+}
+.search-bar {
+	width: 144px;
+	height: 24px;
+	margin: 7px;
+	background-color: #1e1f22;
+	border-radius: 5px;
+	
+	
+}
+.bily {
+	color: #949ba4;
+	margin: 2px;
+}
+.diana {
+	width: 16px;
+	height: 16px;
+	padding: 3px;
+}
+.inside-search-bar {
+	width: 114px;
+	height: 20px;
+	margin: 3px;
+	background-color: #1e1f22;
+	border-radius: 5px;
+	display: flex;
+	justify-content: space-between;
+}
+.chats {
+	width: 240px;
+	height: 848px;
+	background-color: #2b2d31;
+	color: #767c87;
+	
+}
+.text-channel {
+	font-family: 'discord-font', sans-serif;
+	font-weight: 600;
+}
+.channels {
+	padding: 30px;
+}
+.penis {
+	width: 16px;
+	color: gray;
+	
+}
+.text-channel-second {
+	font-family: 'discord-font', sans-serif;
+	font-weight: 600;
+	
+}
+.text-channels {
+	margin: 0px 10px;
+}
+.chat-names {
+	font-weight: 600;
+	font-size: 20px;
+}
+.text-channels-sub {
+	margin: 10px 30px;
+	
+}
+.big {
+	font-size: 30px;
+	
+}
+.profile-user {
+	width: 240px;
+	height: 50px;
+	background-color: #232428;
+	display: flex;
+	
+}
+#src-img {
+	margin: 10px;
+	border-radius: 15px;
+}
+#nickname {
+	font-family: 'discord-font', sans-serif;
+	color: white;
+	font-weight: 600;	
+}
+.nickname {
+	height: 20px;
+	margin: 10px 0px;
+	font-family: 'discord-font', sans-serif;
+	
+}
+.code {
+	font-size: 13px;
+}
+.microphone {
+	margin: 10px 0px 0px 20px;
+}
+.headphones {
+	margin: 10px 0px 0px 10px;
+}
+.settings {
+	margin: 10px 0px 0px 10px;
+}
+.profile-top-void {
+	width: 240px;
+	height: 540px;
+	display: flex;
+	align-items: flex-end;
+}
+.chat {
+	width: 1080px;
+	height: 500px;
+	background-color: #313338;
+}
+.chat-cont {
+	width: 1350px;
+	height: ;
+}
